@@ -1,8 +1,8 @@
 
  # ExpNo 4 : Implement A* search algorithm for a Graph
 
-## NAME : THANJIYAPPAN K
-## REG NO : 212222240108
+## NAME : Dhinesh R
+## REG NO : 212223220019
 
 ## Aim :
 
